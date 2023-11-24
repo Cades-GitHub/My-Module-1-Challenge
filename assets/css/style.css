@@ -209,3 +209,6 @@ p {
     top: 10.5px;
     right: 30px;
 }
+html{
+    scroll-behavior: smooth;
+}
